@@ -15,6 +15,10 @@ As perguntas e outras configurações estão no arquivo fita.json .
 * Power-ups
 * Página de créditos
 
+## Screenshot
+
+![Screenshot 1](doc1.png)
+
 ## Créditos
 
 * Curso de [Imersão Gamedev da Alura](https://www.alura.com.br/imersao-gamedev-javascript)
