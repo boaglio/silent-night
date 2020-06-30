@@ -1,0 +1,220 @@
+{   "configuracoes":{
+      "comSom":true,
+      "vidaMaxima":5,
+      "vidaInicial":5
+   
+},
+   "mapa":[      {
+         "inimigo":0,
+         "velocidade":10
+      
+},
+      {
+         "inimigo":1,
+         "velocidade":20
+      
+},
+      {
+         "inimigo":2,
+         "velocidade":30
+      
+},
+      {
+         "inimigo":3,
+         "velocidade":40
+      
+}
+   
+],
+   "perguntas":[      {
+         "texto":"Região Norte - Capital do Acre ?",
+         "a":"Rio Branco",
+         "b":"Maceió",
+         "c":"Vitória",
+         "d":"Goiânia",
+         "resposta":"a"      
+}, {
+         "texto":"Região Nordeste - Capital de Alagoas ?",
+         "a":"Goiânia",
+         "b":"Maceió",
+         "c":"Rio Branco",
+         "d":"Vitória",
+         "resposta":"b"      
+},{
+         "texto":"Região Centro-Oeste - Capital de Goiás ?",
+         "a":"Maceió",
+         "b":"Vitória",
+         "c":"Rio Branco",
+         "d":"Goiânia",
+         "resposta":"d"      
+} ,{
+         "texto":"Região Sudeste - Capital do Espírito Santo ?",
+         "a":"Rio Branco",
+         "b":"Goiânia",
+         "c":"Vitória",
+         "d":"Maceió",
+         "resposta":"c"  
+} ,{
+         "texto":"Região Norte - Capital do Amapá ?",
+         "a":"Aracaju",
+         "b":"Macapá",
+         "c":"São Paulo",
+         "d":"Maceió",
+         "resposta":"b"   
+} ,{
+         "texto":"Região Nordeste - Capital da Bahia ?",
+         "a":"Salvador",
+         "b":"Maceió",
+         "c":"São Paulo",
+         "d":"Campo Grande",
+         "resposta":"a"  
+} ,{
+         "texto":"Região Centro-Oeste - Capital do Mato Grosso ?",
+         "a":"Curitiba",
+         "b":"Florianópolis",
+         "c":"Vitória",
+         "d":"Cuiabá",
+         "resposta":"d"  
+} ,{
+         "texto":"Região Sudeste - Capital de Minas Gerais ?",
+         "a":"Belo Horizonte",
+         "b":"Vitória",
+         "c":"Campo Grande",
+         "d":"Curitiba",
+         "resposta":"a"  
+} ,{
+         "texto":"Região Sul - Capital do Paraná ?",
+         "a":"Curitiba",
+         "b":"Vitória",
+         "c":"Maceió",
+         "d":"Aracaju",
+         "resposta":"a"  
+} ,{
+         "texto":"Região Norte - Capital do Amazonas ?",
+         "a":"Salvador",
+         "b":"Manaus",
+         "c":"São Luís",
+         "d":"Campo Grande",
+         "resposta":"b"  
+} ,{
+         "texto":"Região Nordeste - Capital do Ceará ?",
+         "a":"Florianópolis",
+         "b":"Manaus",
+         "c":"São Luís",
+         "d":"Fortaleza",
+         "resposta":"d"  
+} ,{
+         "texto":"Região Centro-Oeste - Capital do Mato Grosso do Sul ?",
+         "a":"Aracaju",
+         "b":"São Paulo",
+         "c":"Campo Grande",
+         "d":"Maceió",
+         "resposta":"c"  
+} ,{
+         "texto":"Região Sudeste - Capital de São Paulo ?",
+         "a":"São Paulo",
+         "b":"Curitiba",
+         "c":"Florianópolis",
+         "d":"Salvador",
+         "resposta":"a"  
+} ,{
+         "texto":"Região Sul - Capital do Rio Grande do Sul ?",
+         "a":"Manaus",
+         "b":"São Paulo",
+         "c":"Aracaju",
+         "d":"Porto Alegre",
+         "resposta":"d"  
+} ,{
+         "texto":"Região Norte - Capital do Pará ?",
+         "a":"Belém",
+         "b":"Cuiabá",
+         "c":"Curitiba",
+         "d":"Maceió",
+         "resposta":"a"  
+} ,{
+         "texto":"Região Nordeste - Capital de Maranhão ?",
+         "a":"Manaus",
+         "b":"São Luís",
+         "c":"Porto Alegre",
+         "d":"Campo Grande",
+         "resposta":"b"  
+} ,{
+         "texto":"Região Nordeste - Capital da Paraíba ?",
+         "a":"Salvador",
+         "b":"Campo Grande",
+         "c":"São Paulo",
+         "d":"João Pessoa",
+         "resposta":"d"  
+} ,{
+         "texto":"Região Centro-Oeste - Capital do Distrito Federal ?",
+         "a":"Brasília",
+         "b":"Maceió",
+         "c":"Manaus",
+         "d":"Florianópolis",
+         "resposta":"a"    
+} ,{
+         "texto":"Região Nordeste - Capital de Pernambuco ?",
+         "a":"Aracaju",
+         "b":"Porto Alegre",
+         "c":"São Luís",
+         "d":"Recife",
+         "resposta":"d"  
+} ,{
+         "texto":"Região Norte - Capital de Rondônia ?",
+         "a":"Porto Velho",
+         "b":"Curitiba",
+         "c":"Cuiabá",
+         "d":"Campo Grande",
+         "resposta":"a"  
+} ,{
+         "texto":"Região Sudeste - Capital do Rio de Janeiro ?",
+         "a":"Cuiabá",
+         "b":"Rio de Janeiro",
+         "c":"Curitiba",
+         "d":"São Paulo",
+         "resposta":"b"    
+} ,{
+         "texto":"Região Norte - Capital de Roraima ?",
+         "a":"Salvador",
+         "b":"Maceió",
+         "c":"Boa Vista",
+         "d":"Curitiba",
+         "resposta":"c"  
+} ,{
+         "texto":"Região Nordeste - Capital do Piauí ?",
+         "a":"Teresina",
+         "b":"Cuiabá",
+         "c":"Campo Grande",
+         "d":"Aracaju",
+         "resposta":"a"  
+} ,{
+         "texto":"Região Norte - Capital de Tocantins ?",
+         "a":"Salvador",
+         "b":"Palmas",
+         "c":"São Luís",
+         "d":"Porto Alegre",
+         "resposta":"b"  
+} ,{
+         "texto":"Região Nordeste - Capital de Rio Grande do Norte ?",
+         "a":"Natal",
+         "b":"Manaus",
+         "c":"Campo Grande",
+         "d":"Maceió",
+         "resposta":"a"  
+} ,{
+         "texto":"Região Sul - Capital de Santa Catarina ?",
+         "a":"Manaus",
+         "b":"Salvador",
+         "c":"São Luís",
+         "d":"Florianópolis",
+         "resposta":"d"    
+} ,{
+         "texto":"Região Nordeste - Capital de Sergipe ?",
+         "a":"Aracaju",
+         "b":"Cuiabá",
+         "c":"Manaus",
+         "d":"Campo Grande",
+         "resposta":"a"     
+}    
+]
+}
