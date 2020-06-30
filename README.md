@@ -14,6 +14,8 @@ As perguntas e outras configurações estão no arquivo fita.json .
 * Mais fases com outras perguntas
 * Power-ups
 * Página de créditos
+* Efeito Paralax
+* Mais efeitos sonoros
 
 ## Screenshot
 
@@ -23,7 +25,9 @@ As perguntas e outras configurações estão no arquivo fita.json .
 
 * Curso de [Imersão Gamedev da Alura](https://www.alura.com.br/imersao-gamedev-javascript)
 * Música do Jogo - [Sash! - Ecuador](https://youtu.be/9cQlVww0zKo)
+* Música do Game Over - [Knightmare Gold](https://www.amusementfactory.com.br/msx/kmg/?p=3&l=br)
 * Efeitos extras - [Sonic](https://www.101soundboards.com/boards/10990-sonic-the-hedgehog-sounds)
+
 
 ## Jogue online
 
