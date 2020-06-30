@@ -27,3 +27,6 @@ As perguntas e outras configurações estão no arquivo fita.json .
 
 ## Jogue online
 
+<iframe src="https://editor.p5js.org/boaglio/embed/qndtI9nTY" width="100%" height="500"></iframe>
+
+Ou [jogue em tela cheia](https://editor.p5js.org/boaglio/full/qndtI9nTY).
