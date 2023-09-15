@@ -1,0 +1,95 @@
+{   "configuracoes":{
+    "comSom":true,
+    "vidaMaxima":15,
+    "vidaInicial":5
+ 
+},
+ "mapa":[      {
+       "inimigo":0,
+       "velocidade":10
+    
+},
+    {
+       "inimigo":1,
+       "velocidade":20
+    
+},
+    {
+       "inimigo":2,
+       "velocidade":30
+    
+},
+    {
+       "inimigo":3,
+       "velocidade":40
+    
+}
+ 
+],
+ "perguntas":[      
+   {
+       "texto":"Região Nordeste - Capital de Alagoas ?",
+       "a":"Goiânia",
+       "b":"Maceió",
+       "c":"Rio Branco",
+       "d":"Vitória",
+       "resposta":"b"      
+},{
+       "texto":"Região Nordeste - Capital da Bahia ?",
+       "a":"Salvador",
+       "b":"Maceió",
+       "c":"São Paulo",
+       "d":"Campo Grande",
+       "resposta":"a"  
+} ,{
+       "texto":"Região Nordeste - Capital do Ceará ?",
+       "a":"Florianópolis",
+       "b":"Manaus",
+       "c":"São Luís",
+       "d":"Fortaleza",
+       "resposta":"d"  
+} ,{
+       "texto":"Região Nordeste - Capital de Maranhão ?",
+       "a":"Manaus",
+       "b":"São Luís",
+       "c":"Porto Alegre",
+       "d":"Campo Grande",
+       "resposta":"b"  
+} ,{
+       "texto":"Região Nordeste - Capital da Paraíba ?",
+       "a":"Salvador",
+       "b":"Campo Grande",
+       "c":"São Paulo",
+       "d":"João Pessoa",
+       "resposta":"d"  
+} ,{
+       "texto":"Região Nordeste - Capital de Pernambuco ?",
+       "a":"Aracaju",
+       "b":"Porto Alegre",
+       "c":"São Luís",
+       "d":"Recife",
+       "resposta":"d"  
+} ,{
+       "texto":"Região Nordeste - Capital do Piauí ?",
+       "a":"Teresina",
+       "b":"Cuiabá",
+       "c":"Campo Grande",
+       "d":"Aracaju",
+       "resposta":"a"  
+} ,{
+       "texto":"Região Nordeste - Capital de Rio Grande do Norte ?",
+       "a":"Natal",
+       "b":"Manaus",
+       "c":"Campo Grande",
+       "d":"Maceió",
+       "resposta":"a"  
+} ,{
+       "texto":"Região Nordeste - Capital de Sergipe ?",
+       "a":"Aracaju",
+       "b":"Cuiabá",
+       "c":"Manaus",
+       "d":"Campo Grande",
+       "resposta":"a"     
+}    
+]
+}

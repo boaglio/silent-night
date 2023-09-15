@@ -32,3 +32,15 @@ As perguntas e outras configurações estão no arquivo fita.json .
 ## Jogue online
 
 [jogue em tela cheia](https://editor.p5js.org/boaglio/full/qndtI9nTY)
+
+## Jogue localmente
+
+Edite o arquivo [docker-compose.yaml](docker-compose.yaml) , depois suba a aplicação:
+
+```
+docker compose up
+```
+
+Em seguida acesse: 
+
+http://localhost:8000
